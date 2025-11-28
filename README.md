@@ -1,2 +1,2 @@
 # Demoaws01
-A code repo with akash
+A code repo with Akash
